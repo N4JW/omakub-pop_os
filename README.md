@@ -1,19 +1,16 @@
-# Omakub
+# Omakub for Pop!_OS
 
-Turn a fresh Ubuntu installation into a fully-configured, beautiful, and modern web development system by running a single command. That's the one-line pitch for Omakub. No need to write bespoke configs for every essential tool just to get started or to be up on all the latest command-line tools. Omakub is an opinionated take on what Linux can be at its best.
+Installs most of the applications included in Omakub while preserving the window tiling, keyboard shortcuts, and overall desktop theme of Pop!_OS. 
 
-Watch the introduction video and read more at [omakub.org](https://omakub.org).
+This is very much a work in progress. Install at your own risk.
 
-## Contributing to the documentation
+For more information on the original Omakub, visit the website at [omakub.org](https://omakub.org).
 
-Please help us improve Omakub's documentation on the [basecamp/omakub-site repository](https://github.com/basecamp/omakub-site).
+## Differences/Goals
+
+I've left out the GNOME extensions. Also this version favors the Brave browser over Google Chrome. VS Code is not installed by default. No attempt is made to change the Pop!_OS background or desktop theme (although I may add that later). 
 
 ## License
 
-Omakub is released under the [MIT License](https://opensource.org/licenses/MIT).
+Released under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Extras
-
-While omakub is purposed to be an opinionated take, the open source community offers alternative customization, add-ons, extras, that you can use to adjust, replace or enrich your experience.
-
-[⇒ Browse the omakub extensions.](EXTENSIONS.md)
